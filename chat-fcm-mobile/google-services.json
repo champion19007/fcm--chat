@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "879960857162",
+    "project_id": "chat-fcm-app",
+    "storage_bucket": "chat-fcm-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879960857162:android:fad2568e034a9f293f64b3",
+        "android_client_info": {
+          "package_name": "com.champ.chatfcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrmkushjYU34XSKB0TuHQJkAv-9sEL2YY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
