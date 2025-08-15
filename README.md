@@ -105,4 +105,4 @@ This project is licensed under the MIT License.
 
 ---
 
-Feel free to adjust the template to better fit your project's specifics. If you need further customization or additional sections, let me know!
+
